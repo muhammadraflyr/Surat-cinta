@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -41,7 +41,7 @@
     }
 
     h1 {
-      text-align: left;
+      text-align: justify;
       color: #ff4d88;
       font-size: 26px;
       font-style: italic;
